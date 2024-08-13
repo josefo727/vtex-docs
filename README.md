@@ -1,6 +1,7 @@
 # VTEX Documentation
 
 Este repositorio contiene documentación útil sobre diversos eventos y funcionalidades de VTEX.
+
 This repository contains useful documentation on various VTEX events and functionalities.
 
 ## Índice
